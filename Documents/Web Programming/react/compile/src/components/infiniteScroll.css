@@ -1,0 +1,23 @@
+.videoBlock{
+    border: 1px solid green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    height: 300px;
+}
+
+.codeBlock{
+    height: 300px;
+    border: 1px solid green;
+    margin: 10px;
+    overflow: hidden;
+}
+
+.innerCode{
+    height:100%;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    
+}
